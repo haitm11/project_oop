@@ -1,0 +1,29 @@
+SỐ CÂU TRẮC NGHIỆM: 6 (dễ:2,trung bình:2,khó:2)
+SỐ CÂU TỰ LUẬN: 6 (dễ:2,trung bình:3,khó:1)
+
+Trắc Nghiệm
+câu 1: Đồ thị hàm số y = x^2 tiếp xúc với trục hoành
+1. Sai
+câu 2: 2 đồ thị hàm số y=x^3-x và y = 1/x tiếp xúc nhau tại điểm nào
+1. điểm khác
+câu 3: Nghiệm phương trình sinx = 0 là pi/3, đúng hay sai
+1. Sai
+câu 4: Chọn câu đúng
+2. Có thể biến đổi sin2x về cosx
+3. số đáp án đúng của câu này là 1
+câu 5: Đồ thị hàm số nào sau đây nhận (4,7) là đỉnh
+2. y = x^3
+câu 6: Điểm (0,0) thuộc đồ thị hàm số y = C(4,x)
+1. Sai
+câu 1: câu hỏi môn toán dễ
+Gợi ý: không có gợi ý
+câu 2: Tại đỉnh của đồ thị y = 69x^2, chuyện gì xảy ra
+Gợi ý: bối rối vl :))
+câu 3: Vẽ đồ thị hàm số y = C(x,2x)
+Gợi ý: tính đạo hàm, sau đó kết hợp lượng giác, vi phân, cùng tổ hợp xác suất, sau cùng ln xuống thì ta ra được kết quả là logarit mũ 20 căn bậc 2^8 của kết quả cần tìm
+câu 4: Tính xác suất để nghiệm phương trinh Sinx = 9 là pi/3
+Gợi ý: xác suất này chỉ có thể là 1 trong 2 giá trị 100% và 0%
+câu 5: Biến đổi tan^3(x) về cosx
+Gợi ý: Áp dụng các công thức lượng giác
+câu 6: Tìm nghiệm x^2 = 4
+Gợi ý: x là một số nào đó mà khi mũ 2 lên sẽ bằng 4

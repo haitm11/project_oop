@@ -1,0 +1,7 @@
+﻿Điền vào chỗ còn thiếu: How...are you&1&1&old#1#name#0#how#0#is#0
+Điền vào chỗ còn thiếu: What time is ... &1&3&you#0#it#1#iam#0#nothing#0
+Điền vào chỗ còn thiếu: How...&1&3&how#0#much#1#many#1#when#0
+Điền vào chỗ còn thiếu: computer is...&2&1&machine#1#human#0#you#0#nothing#0
+Điền vào chỗ còn thiếu: Java is ...&2&2&machine#0#language#1#was#0#human#0
+Điền vào chỗ còn thiếu: windown is&2&3&OS#1#nothing#0
+Điền vào chỗ còn thiếu: What is the Rubi&2&3&Language#1#human#0#you#0

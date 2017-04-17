@@ -1,0 +1,5 @@
+﻿Phần mềm chạy trên netbeans
+Khi mở ra thì chạy file main.java đầu tiên
+Cách sử dụng đều được ghi chú thích ngay trên phần mềm
+dữ liệu lưu tại thư mục BTLOOP dưới dạng các file text
+đề thi sinh ra lưu tại BTLOOP\dethi

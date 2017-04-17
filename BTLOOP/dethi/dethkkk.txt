@@ -1,0 +1,9 @@
+Trắc Nghiệm
+
+Tự Luận
+câu 1: Tính C(4,8)
+câu 2: Tìm nghiệm x^2 = 4
+câu 3: Tính C(6,8) + C(7,8)
+câu 4: Tính xác suất bạn sẽ ngỏm củ tỏi ở tuổi 69
+câu 5: Vẽ đồ thị hàm số y = x + 1
+câu 6: Trong hộp có 5 viên bi trắng và 8 viên bi đỏ, tính xác suất lấy được 1 viên bi đỏ

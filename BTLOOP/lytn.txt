@@ -1,0 +1,16 @@
+﻿Quãng đường An đi được lsau 1 h là bao nhiêu, biết vận tốc An không đổi bằng 5km/h&1&1&4km#0#5km#1#6km#0#7km#0
+Một vật khởi hành tại vị trí 5m, đi theo chiều âm với vận tốc 5m/s, viết PT chuyển động&1&1&x = 5 + 5t#0#x = 5 - 5t#1#x = -5 - 5t#0#x = -5 + 5t#0
+Một người đi từ A-B với vận tốc 30km/h, sau 30phút, một người đi từ B-A với vận tốc 12km/h. tính vị trí họ gặp nhau cách A bao nhiêu km, biết AB = 100km&1&2&50km#0#45km#0#40km#0#60km#1
+Một diễn viên xiếc đứng trên yên ngựa, sau đó nhảy lên, câu phát biểu nào sau đây đúng&1&2&diễn viên xiếc rơi xuống đất#0#diễn viên xiếc rơi xuống yên ngựa#1#diễn viên xiếc rơi xuống đất hay xuống yên ngựa còn phụ thuộc các yếu tố khác#0#tất cả đều sai#0
+Ném một hòn đá ra ngang, quỷ đạo chuyển động của hòn đá có hình gì&1&3&parabol#1#hypebol#0#cầu vòng#0#thẳng#0
+Chuyển động của đu quay là chuyển động gì&1&3&Tịnh tiến#1#Xoay vòng#0
+Phương trình định luật đẳng nhiệt&2&1&PV/T hăng số#0#PV hăng số#1#P/T hằng số#0#V/T hằng số#0
+Phương trình định luật đẳng tích&2&1&PV/T hăng số#0#PV hăng số#0#P/T hằng số#1#V/T hằng số#0
+Chất khí có cấu trúc giống chất rắn vô định hình, đúng hay sai&2&2&Đúng#0#Sai#1
+Chất khí có nội năng, đúng hay sai&2&2&Đúng#1#Sai#0
+Chất khí lý tưởng mới tuân theo 3 định luật Đẳng Tích, Đẳng nhiệt, Đẳng Áp&2&3&Đúng#0#Sai#1
+Muối là chất rắn vô định hình&3&1&Đúng#0#Sai#1
+Chất rắn kết tinh là&3&2&Có dạng hình học, không có chất rắn vô định hình#0#Có dạng hình học, có nhiệt độ nóng chảy xác định#1#không có dạng hình học, có nhiệt độ nc xác định#0#Tất cả đều sai#0
+Định luật huc nói về&3&3&Sự nở vì nhiệt của vật rắn#0#Sự biến dạng cơ của vật rắn#1#Sự nóng chảy của vật rắn#0#Sự thăng hoa của vật rắn#0
+Mọi chất lỏng đều có hiện tượng căng bề mặt&4&1&Đúng#1#Sai#0
+Hiện tượng căng bề mặt chỉ xảy ra trên bề mặt chất lỏng&4&3&Đúng#1#Sai#0

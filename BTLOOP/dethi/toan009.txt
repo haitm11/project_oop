@@ -1,0 +1,40 @@
+ĐỀ THI MÔN: toan
+
+Trắc Nghiệm
+câu 1: Đồ thị hàm số y = x đi qua điểm (0,1)
+1. Đúng
+2. Sai
+3. Thiếu dữ kiện
+câu 2: Điểm (0,0) thuộc đồ thị hàm số y = C(4,x)
+1. Đúng
+2. Sai
+câu 3: Một lô hàng gồm 10 chính phẩm, trong đó có 6 chính phẩm. chọn ngẫu nhiên 3 SP. tính xác suất để có ít nhất 2 chính phẩm
+1. 0,3
+2. 0,5
+3. 0,7
+4. đáp án khác
+câu 4: Nghiệm phương trình tan^2(x) = pi/2 là pi/3, đúng hay sai
+1. Đúng
+2. Sai
+câu 5: Hỏi có bao nhiêu cách lấy táo
+1. 5
+2. 3
+3. 2
+4. 6
+câu 6: Lấy ngẫu nhiên 6 quả bóng không hoàn lại trong 12 quả (8 quả mới, 4 quả qua sử dụng), tính xác suất số bóng mới không quá 3
+1. 8/11
+2. 3/11
+3. 1/33
+4. 9/33
+câu 7: Chọn đáp án đúng
+1. tổ hợp toàn bài khó
+2. không gì là không thể
+3. chán quá
+4. sai sai sai
+
+Tự Luận
+câu 1: Vẽ đồ thị hàm số y = x + 1
+câu 2: Tính C(4,8)
+câu 3: Giải phương trình lượng giác sin3x + 2cos2x - 2 = 0
+câu 4: Tìm nghiệm x^2 = 4
+câu 5: Cho 2 điểm (2,2) và (3,3), hỏi 2 điểm này vẽ lên được đồ thị có phương trình ntn

@@ -1,0 +1,21 @@
+ĐỀ THI MÔN: ngoai
+
+Trắc Nghiệm
+câu 1: Điền vào chỗ còn thiếu: Java is ...
+1. language
+2. machine
+3. was
+4. human
+câu 2: Điền vào chỗ còn thiếu: computer is...
+1. machine
+2. human
+3. you
+4. nothing
+câu 3: Điền vào chỗ còn thiếu: windown is
+1. OS
+2. nothing
+
+Tự Luận
+câu 1: ﻿What is your name
+câu 2: How old are you
+câu 3: What is the intel core 7

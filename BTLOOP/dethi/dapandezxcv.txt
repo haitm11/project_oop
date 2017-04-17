@@ -1,0 +1,11 @@
+Trắc Nghiệm
+câu 1: Chọn câu đúng
+2. Có thể biến đổi sin2x về cosx
+3. số đáp án đúng của câu này là 1
+câu 2: Giải phương trình lượng giác tan^3(3x) = 9
+1. pi/2
+2. pi/4
+câu 1: Giải phương trình lượng giác 1 - 5sinx + 2cosx = 0
+Gợi ý: sử dụng công thức liên hệ giữa cosx và sinx
+câu 2: Sử dụng lượng giác chứng minh rằng (cosx + tan^2(3x))/4  = 8sin^2(x)
+Gợi ý: sử dụng các hằng đẳng thức lượng giác

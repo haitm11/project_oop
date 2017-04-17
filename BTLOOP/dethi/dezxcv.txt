@@ -1,0 +1,15 @@
+Trắc Nghiệm
+câu 1: Chọn câu đúng
+1. Nghiệm pt cosx = 0 là pi/3
+2. Có thể biến đổi sin2x về cosx
+3. số đáp án đúng của câu này là 1
+4. có thể tìm được số pi nhờ vào lượng giác
+câu 2: Giải phương trình lượng giác tan^3(3x) = 9
+1. pi/2
+2. pi/4
+3. p/3
+4. pi/5
+
+Tự Luận
+câu 1: Giải phương trình lượng giác 1 - 5sinx + 2cosx = 0
+câu 2: Sử dụng lượng giác chứng minh rằng (cosx + tan^2(3x))/4  = 8sin^2(x)

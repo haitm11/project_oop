@@ -1,0 +1,16 @@
+SỐ CÂU TRẮC NGHIỆM: 3 (dễ:1,trung bình:1,khó:1)
+SỐ CÂU TỰ LUẬN: 3 (dễ:1,trung bình:1,khó:1)
+
+Trắc Nghiệm
+câu 1: Điền vào chỗ còn thiếu: Java is ...
+1. language
+câu 2: Điền vào chỗ còn thiếu: computer is...
+1. machine
+câu 3: Điền vào chỗ còn thiếu: windown is
+1. OS
+câu 1: ﻿What is your name
+Gợi ý: nothing
+câu 2: How old are you
+Gợi ý: nothing
+câu 3: What is the intel core 7
+Gợi ý: model

@@ -1,0 +1,16 @@
+Trắc Nghiệm
+câu 1: Có 5 người xếp hàng, hỏi có bao nhiêu các xếp
+2. 5!
+câu 2: ﻿Nghiệm phương trình Sinx = 0 là
+3. 0
+câu 3: Xếp 5 người lên 7 toa tàu hỏi có bao nhiêu cách xếp
+1. 2682
+câu 4: Nghiệm phương trình tan^2(x) = pi/2 là pi/3, đúng hay sai
+1. Đúng
+câu 5: Đồ thị hàm số  y = sinx có đặc điểm
+3. dạng hình sóng
+câu 6: Giải phương trình lượng giác tan^3(3x) = 9
+2. pi/4
+3. pi/2
+câu 7: Nghiệm phương trình sinx = 0 là pi/3, đúng hay sai
+1. Sai

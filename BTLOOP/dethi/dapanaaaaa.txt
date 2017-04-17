@@ -1,0 +1,31 @@
+Trắc Nghiệm
+câu 1: Xếp 5 người lên 7 toa tàu hỏi có bao nhiêu cách xếp
+2. 2682
+câu 2: Nghiệm phương trình sinx = 0 là pi/3, đúng hay sai
+1. Sai
+câu 3: Chọn đáp án đúng
+1. tổ hợp toàn bài khó
+4. không gì là không thể
+câu 4: Giải phương trình lượng giác tan^3(3x) = 9
+3. pi/2
+4. pi/4
+câu 5: Lấy ngẫu nhiên 6 quả bóng không hoàn lại trong 12 quả (8 quả mới, 4 quả qua sử dụng), tính xác suất số bóng mới không quá 3
+4. 3/11
+câu 6: Tính tổ hợp sau C(sin5,99)
+3. đáp án khác
+câu 7: Hỏi có bao nhiêu cách lấy táo
+4. 5
+câu 1: Tính xác suất bạn sẽ ngỏm củ tỏi ở tuổi 69
+Gợi ý: nếu bạn giải được câu này, bạn không cần làm những câu còn lại
+câu 2: Tính C(6,8) + C(7,8)
+Gợi ý: C(7,8)  = C(1,8)
+câu 3: Tìm a: acosx + 3tana = 0
+Gợi ý: Áp dụng công thức tana sau đó lập bảng xét giá trị
+câu 4: Giải phương trình lượng giác sin3x + 2cos2x - 2 = 0
+Gợi ý: biến đổi sin3x và cos2x về cosx
+câu 5: Tính xác suất để lô tối nay về 99 và 3 nháy
+Gợi ý: Hãy liên hệ tổng đài 1080 để được giải đáp
+câu 6: Có bao nhiêu cách xếp 5 người vào 7 vị trí
+Gợi ý: người thứ nhất có 7 lựa chọn, người thứ 2 có 6 lựa chọn.... 
+câu 7: Tính xác suất để nghiệm phương trinh Sinx = 9 là pi/3
+Gợi ý: xác suất này chỉ có thể là 1 trong 2 giá trị 100% và 0%

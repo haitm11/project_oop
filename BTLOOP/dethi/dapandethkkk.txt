@@ -1,0 +1,13 @@
+Trắc Nghiệm
+câu 1: Tính C(4,8)
+Gợi ý: không có gợi ý
+câu 2: Tìm nghiệm x^2 = 4
+Gợi ý: x là một số nào đó mà khi mũ 2 lên sẽ bằng 4
+câu 3: Tính C(6,8) + C(7,8)
+Gợi ý: C(7,8)  = C(1,8)
+câu 4: Tính xác suất bạn sẽ ngỏm củ tỏi ở tuổi 69
+Gợi ý: nếu bạn giải được câu này, bạn không cần làm những câu còn lại
+câu 5: Vẽ đồ thị hàm số y = x + 1
+Gợi ý: Nó là một đường thẳng song song với đường y = x + 2
+câu 6: Trong hộp có 5 viên bi trắng và 8 viên bi đỏ, tính xác suất lấy được 1 viên bi đỏ
+Gợi ý: tính xác suất lấy đc viên bi trắng rồi lấy 100% trừ đi

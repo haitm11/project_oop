@@ -1,0 +1,6 @@
+﻿What is your name&1&1&nothing
+How old are you&1&3&nothing
+What is the computer&2&1&sicence machine
+What is the intel core 7&2&2&model
+How use the computer&2&3&nothing
+What is the Java&2&3&Java is language

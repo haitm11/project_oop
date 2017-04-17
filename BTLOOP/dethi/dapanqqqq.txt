@@ -1,0 +1,28 @@
+SỐ CÂU TRẮC NGHIỆM: 6 (dễ:3,trung bình:2,khó:1)
+SỐ CÂU TỰ LUẬN: 6 (dễ:2,trung bình:2,khó:2)
+
+Trắc Nghiệm
+câu 1: Đồ thị hàm số  y = sinx có đặc điểm
+2. dạng hình sóng
+câu 2: Câu phát biểu nào sau đây đúng
+2. lượng giác và tổ hợp có ít mối liên hệ với nhau
+câu 3: Nghiệm phương trình tan^2(x) = pi/2 là pi/3, đúng hay sai
+1. Đúng
+câu 4: Hỏi có bao nhiêu cách lấy táo
+1. 5
+câu 5: Đồ thị hàm số y = x^2 + 2 giao với trục hoành tại điểm có hoành độ là
+4. không giao
+câu 6: Đồ thị hàm số nào sau đây nhận (4,7) là đỉnh
+2. y = x^3
+câu 1: Vẽ đồ thị hàm số x = 9
+Gợi ý: Nó là một đường thẳng song song oy
+câu 2: ﻿Giải phương trình lượng giác 2cos2x - 4 cosx = 1
+Gợi ý: biến đổi cos2x về cosx
+câu 3: Tìm nghiệm x^2 = 4
+Gợi ý: x là một số nào đó mà khi mũ 2 lên sẽ bằng 4
+câu 4: Vẽ đồ thị hàm số y = sinx
+Gợi ý: Đường lượn sóng
+câu 5: Sử dụng lượng giác chứng minh rằng (cosx + tan^2(3x))/4  = 8sin^2(x)
+Gợi ý: sử dụng các hằng đẳng thức lượng giác
+câu 6: Hãy vẽ đồ thị hàm số cuộc đời bạn
+Gợi ý: Cuộc đời bạn do bạn quyết định, hãy sống sao cho có trách nhiệm

@@ -1,0 +1,27 @@
+﻿Giải phương trình lượng giác 2cos2x - 4 cosx = 1&1&1&biến đổi cos2x về cosx
+Giải phương trình lượng giác 1 - 5sinx + 2cosx = 0&1&1&sử dụng công thức liên hệ giữa cosx và sinx
+Giải phương trình lượng giác sin3x + 2cos2x - 2 = 0&1&2&biến đổi sin3x và cos2x về cosx
+Biến đổi tan^3(x) về cosx&1&2&Áp dụng các công thức lượng giác
+Tìm a: acosx + 3tana = 0&1&3&Áp dụng công thức tana sau đó lập bảng xét giá trị
+Sử dụng lượng giác chứng minh rằng (cosx + tan^2(3x))/4  = 8sin^2(x)&1&3&sử dụng các hằng đẳng thức lượng giác
+Tính C(4,8)&2&1&không có gợi ý
+Tính C(6,8) + C(7,8)&2&1&C(7,8)  = C(1,8)
+Tính A(2,5)&2&1&tính thông qua C
+Trong hộp có 5 viên bi trắng và 8 viên bi đỏ, tính xác suất lấy được 1 viên bi đỏ&2&2&tính xác suất lấy đc viên bi trắng rồi lấy 100% trừ đi
+Có bao nhiêu cách xếp 5 người vào 7 vị trí&2&2&người thứ nhất có 7 lựa chọn, người thứ 2 có 6 lựa chọn.... 
+Tính xác suất để lô tối nay về 99 và 3 nháy&2&3&Hãy liên hệ tổng đài 1080 để được giải đáp
+Tính xác suất bạn sẽ ngỏm củ tỏi ở tuổi 69&2&3&nếu bạn giải được câu này, bạn không cần làm những câu còn lại
+Vẽ đồ thị hàm số x = 9&3&1&Nó là một đường thẳng song song oy
+Vẽ đồ thị hàm số y = x + 1&3&1&Nó là một đường thẳng song song với đường y = x + 2
+Tại đỉnh của đồ thị y = 69x^2, chuyện gì xảy ra&3&2&bối rối vl :))
+Cho 2 điểm (2,2) và (3,3), hỏi 2 điểm này vẽ lên được đồ thị có phương trình ntn&3&2&duyệt tất cả các đường thẳng sao cho nó đi qua 2 điểm trên, sau đó viết phương trình hàm số
+Tìm nghiệm x^2 = 4&3&2&x là một số nào đó mà khi mũ 2 lên sẽ bằng 4
+Vẽ đồ thị hàm số thị trường chứng khoán ngày mai&3&3&nếu làm được câu này, bạn có thể đứng dậy ra về
+Vẽ đồ thị hàm số nhiệt độ TĐ 100 năm trở lại đây, dự báo quy luật&3&3&liên hệ môn địa lý
+Hãy vẽ đồ thị hàm số cuộc đời bạn&3&3&Cuộc đời bạn do bạn quyết định, hãy sống sao cho có trách nhiệm
+Tính xác suất để nghiệm phương trinh Sinx = 9 là pi/3&1#2&1&xác suất này chỉ có thể là 1 trong 2 giá trị 100% và 0%
+Vẽ đồ thị hàm số y = sinx&1#3&2&Đường lượn sóng
+Có bao nhiêu đồ thị hàm số đi qua n điểm cho trước&2#3&2&???
+Vẽ đồ thị hàm số y = C(x,2x)&1#2#3&3&tính đạo hàm, sau đó kết hợp lượng giác, vi phân, cùng tổ hợp xác suất, sau cùng ln xuống thì ta ra được kết quả là logarit mũ 20 căn bậc 2^8 của kết quả cần tìm
+Tính xác suất p&2&1&không rõ
+câu hỏi môn toán dễ&1&1&không có gợi ý

@@ -1,0 +1,29 @@
+SỐ CÂU TRẮC NGHIỆM: 7 (dễ:4,trung bình:2,khó:1)
+SỐ CÂU TỰ LUẬN: 5 (dễ:2,trung bình:3,khó:0)
+
+Trắc Nghiệm
+câu 1: Đồ thị hàm số y = x đi qua điểm (0,1)
+2. Sai
+câu 2: Điểm (0,0) thuộc đồ thị hàm số y = C(4,x)
+2. Sai
+câu 3: Một lô hàng gồm 10 chính phẩm, trong đó có 6 chính phẩm. chọn ngẫu nhiên 3 SP. tính xác suất để có ít nhất 2 chính phẩm
+4. đáp án khác
+câu 4: Nghiệm phương trình tan^2(x) = pi/2 là pi/3, đúng hay sai
+1. Đúng
+câu 5: Hỏi có bao nhiêu cách lấy táo
+1. 5
+câu 6: Lấy ngẫu nhiên 6 quả bóng không hoàn lại trong 12 quả (8 quả mới, 4 quả qua sử dụng), tính xác suất số bóng mới không quá 3
+2. 3/11
+câu 7: Chọn đáp án đúng
+1. tổ hợp toàn bài khó
+2. không gì là không thể
+câu 1: Vẽ đồ thị hàm số y = x + 1
+Gợi ý: Nó là một đường thẳng song song với đường y = x + 2
+câu 2: Tính C(4,8)
+Gợi ý: không có gợi ý
+câu 3: Giải phương trình lượng giác sin3x + 2cos2x - 2 = 0
+Gợi ý: biến đổi sin3x và cos2x về cosx
+câu 4: Tìm nghiệm x^2 = 4
+Gợi ý: x là một số nào đó mà khi mũ 2 lên sẽ bằng 4
+câu 5: Cho 2 điểm (2,2) và (3,3), hỏi 2 điểm này vẽ lên được đồ thị có phương trình ntn
+Gợi ý: duyệt tất cả các đường thẳng sao cho nó đi qua 2 điểm trên, sau đó viết phương trình hàm số

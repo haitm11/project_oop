@@ -1,0 +1,14 @@
+Trắc Nghiệm
+câu 1: Đồ thị hàm số y = x^2 + 2 giao với trục hoành tại điểm có hoành độ là
+4. không giao
+câu 2: Hỏi có bao nhiêu cách lấy táo
+2. 5
+câu 3: 2 đồ thị hàm số y=x^3-x và y = 1/x tiếp xúc nhau tại điểm nào
+2. điểm khác
+câu 4: Chọn câu đúng
+2. Có thể biến đổi sin2x về cosx
+3. số đáp án đúng của câu này là 1
+câu 5: Đồ thị hàm số nào sau đây nhận (4,7) là đỉnh
+4. y = x^3
+câu 6: Tính tổ hợp sau C(sin5,99)
+1. đáp án khác

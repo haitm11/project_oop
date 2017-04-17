@@ -1,0 +1,9 @@
+﻿Chế độ mẫu hệ là chế độ&1&1&con cái theo mẹ#1#con cái theo cha#0#con cái theo cả mẹ cả cha#0#tất cả đều sai#0
+Ngô quyền đánh thắng quân Nam Hán dựa vào yếu tố nào&2&1&Sự thông minh dũng cảm của ông#1#quân số đông#0#Thủy triều#1#thuyền lớn#1
+Hai bà Trưng là những ai&2&2&Trưng Trắc#0#Trưng nhị#0#cả hai#1
+Giải phóng miền nam vào ngày 30-4-1975&3&2&đúng#1#sai#0
+Chiến dịch giải phóng miền nam còn được gọi là chiến dịch&3&3&Chiến dịch HCM#1#Chiến dịch thu đông#0#chiến dịch ĐBP#0#Chiến dịch thành cổ Quảng Trị#0
+Chiến tranh thế giới thứ nhất kết thúc ngày nào&4&1&22-2#0#22-3#0#22-4#0#tất cả đều sai#1
+Hai quả bom nguyên tử Mĩ thả xuống 2 thành phố nào của Nhật&4&3&Hiroshima#1#Tokyo#0#Nagasaki#1#Kyoto#0
+Lịch sử Việt Nam trải qua mấy thời kỳ&5&2&4#1#2#0#3#0
+Người cổ đại sống ở đâu?&1&2&hang#1#vách núi#1#nhà cửa#0

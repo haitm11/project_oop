@@ -1,0 +1,45 @@
+Trắc Nghiệm
+câu 1: Đồ thị hàm số y = x^2 tiếp xúc với trục hoành
+1. Đúng
+2. 2!
+3. Sai
+4. Thiếu dữ kiện
+câu 2: Nghiệm phương trình sinx = 0 là pi/3, đúng hay sai
+1. số đáp án đúng của câu này là 1
+2. Sai
+3. Nghiệm pt cosx = 0 là pi/3
+4. Đúng
+câu 3: 2 đồ thị hàm số y=x^3-x và y = 1/x tiếp xúc nhau tại điểm nào
+1. điểm khác
+2. (3,4)
+3. (1,2)
+4. (5,6)
+câu 4: Đồ thị hàm số nào sau đây nhận (4,7) là đỉnh
+1. y = x^4
+2. y = x^2
+3. y = x^5
+4. y = x^3
+câu 5: Chọn câu đúng
+1. có thể tìm được số pi nhờ vào lượng giác
+2. Có thể biến đổi sin2x về cosx
+3. số đáp án đúng của câu này là 1
+4. Nghiệm pt cosx = 0 là pi/3
+câu 6: Sin2x = 2cos^2(x) - 1 đúng với mọi x, đúng hay sai
+1. Đúng
+2. Sai
+3. Nghiệm pt cosx = 0 là pi/3
+4. số đáp án đúng của câu này là 1
+câu 7: Đồ thị hàm số y = x^2 + 2 giao với trục hoành tại điểm có hoành độ là
+1. 1
+2. 2
+3. 0
+4. không giao
+
+Tự Luận
+câu 1: Tính xác suất để nghiệm phương trinh Sinx = 9 là pi/3
+câu 2: Tìm a: acosx + 3tana = 0
+câu 3: Vẽ đồ thị hàm số y = x + 1
+câu 4: Vẽ đồ thị hàm số nhiệt độ TĐ 100 năm trở lại đây, dự báo quy luật
+câu 5: Vẽ đồ thị hàm số y = sinx
+câu 6: Hãy vẽ đồ thị hàm số cuộc đời bạn
+câu 7: Có bao nhiêu đồ thị hàm số đi qua n điểm cho trước

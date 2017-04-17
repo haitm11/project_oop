@@ -1,0 +1,25 @@
+﻿Nghiệm phương trình Sinx = 0 là&1&1&0#1#pi/2#0#pi/3#0#pi/4#0
+Chọn câu đúng&1&1&Có thể biến đổi sin2x về cosx#1#có thể tìm được số pi nhờ vào lượng giác#0#Nghiệm pt cosx = 0 là pi/3#0#số đáp án đúng của câu này là 1#1
+Nghiệm phương trình tan^2(x) = pi/2 là pi/3, đúng hay sai&1&1&Đúng#1#Sai#0
+Nghiệm phương trình sinx = 0 là pi/3, đúng hay sai&1&2&Đúng#0#Sai#1
+Sin2x = 2cos^2(x) - 1 đúng với mọi x, đúng hay sai&1&2&Đúng#1#Sai#0
+Giải phương trình lượng giác tan^3(3x) = 9&1&3&pi/2#1#p/3#0#pi/4#1#pi/5#0
+Một lô hàng gồm 10 chính phẩm, trong đó có 6 chính phẩm. chọn ngẫu nhiên 3 SP. tính xác suất để có ít nhất 2 chính phẩm&2&1&0,3#0#0,5#0#0,7#0#đáp án khác#1
+Lấy ngẫu nhiên 6 quả bóng không hoàn lại trong 12 quả (8 quả mới, 4 quả qua sử dụng), tính xác suất số bóng mới không quá 3&2&2&8/11#0#3/11#1#1/33#0#9/33#0
+Xếp 5 người lên 7 toa tàu hỏi có bao nhiêu cách xếp&2&2&5620#0#1276#0#2682#1#6723#0
+Có 5 người xếp hàng, hỏi có bao nhiêu các xếp&2&3&5!#1#4!#0#3!#0#2!#0
+3 người đi câu cá, biết cá tập trung nhiều nhất bên người 1, tính xác suất người 3 nhiều cá nhất&3&1&0,3#0#0#0#đáp án khác#1
+Đồ thị hàm số y = x đi qua điểm (0,1)&3&1&Đúng#0#Sai#1#Thiếu dữ kiện#0
+Đồ thị hàm số y = x^2 tiếp xúc với trục hoành&3&2&Đúng#0#Sai#1
+Đồ thị hàm số y = x^2 + 2 giao với trục hoành tại điểm có hoành độ là&3&2&0#0#1#0#2#0#không giao#1
+2 đồ thị hàm số y=x^3-x và y = 1/x tiếp xúc nhau tại điểm nào&3&3&(1,2)#0#(3,4)#0#(5,6)#0#điểm khác#1
+Phương trình tiếp tuyến của đồ thị hàm số y = x^4 + 5 là&3&3&y = x#0#y = 3x - 9#1#y = 4x +5#0#y = x -12#0
+Đồ thị hàm số nào sau đây song song với trục hoành&3&3&y = 1#1#y = 2#1#x = 1#0#x = 2#0
+Đồ thị hàm số nào sau đây nhận (4,7) là đỉnh&3&3&y = x^2#0#y = x^3#1#y = x^4#0#y = x^5#0
+Tính tổ hợp sau C(sin5,99)&1#2&1&100#0#200#0#300#0#đáp án khác#1
+Đồ thị hàm số  y = sinx có đặc điểm&1#3&1&dạng hình nón#0#dạng hình sóng#1#dạng hình cầu#0#hình khác#0
+Điểm (0,0) thuộc đồ thị hàm số y = C(4,x)&2#3&1&Đúng#0#Sai#1
+Phương trình lượng giác của đồ thị y = x&1#2#3&1&y = sinx#0#y = cosx#0#y = tanx#0#đáp án khác#1
+Câu phát biểu nào sau đây đúng&1#2&1&lượng giác và tổ hợp có mối liên hệ đặc biệt#0#lượng giác và tổ hợp có ít mối liên hệ với nhau#1#không kết luận đc#0
+Hỏi có bao nhiêu cách lấy táo&2#3&2&5#1#3#0#2#0#6#0
+Chọn đáp án đúng&2&3&tổ hợp toàn bài khó#1#không gì là không thể#1#chán quá#0#sai sai sai#0

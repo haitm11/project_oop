@@ -1,0 +1,10 @@
+Trắc Nghiệm
+câu 1: ﻿Nghiệm phương trình Sinx = 0 là
+3. 0
+câu 2: Giải phương trình lượng giác tan^3(3x) = 9
+1. pi/2
+2. pi/4
+câu 1: Giải phương trình lượng giác sin3x + 2cos2x - 2 = 0
+Gợi ý: biến đổi sin3x và cos2x về cosx
+câu 2: Giải phương trình lượng giác 1 - 5sinx + 2cosx = 0
+Gợi ý: sử dụng công thức liên hệ giữa cosx và sinx
